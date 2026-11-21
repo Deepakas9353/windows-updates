@@ -1,5 +1,5 @@
 {
   "version": "1.0.2",
-  "downloadUrl": "https://copy-storage.s3.ap-south-1.amazonaws.com/windows-updates/copy.com.exe",
+  "downloadUrl": "https://github.com/Deepakas9353/windows-updates/releases/download/v1.0.2/copy.com.exe",
   "releaseNotes": "contains TEST in test screen"
 }
